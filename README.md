@@ -24,7 +24,7 @@
   - <b>Canva</b>
   - <b>PowerPoint</b> 
 
-<h3><a href="https://github.com/arielbethea/CybersecurityAwarenessTraining/blob/main/Ariel%20Bethea%20-%20Mastercard%20Phishing%20Awareness%20Presentation.pdf" align="left">SimplyCyber Financials Information Security Policy</a></h3>
+<h3><a href="https://github.com/arielbethea/CybersecurityAwarenessTraining/blob/main/Ariel%20Bethea%20-%20Mastercard%20Phishing%20Awareness%20Presentation.pdf" align="left">Cybesecurity Awareness Training Simulation for Mastercard</a></h3>
 </p>
 
 
