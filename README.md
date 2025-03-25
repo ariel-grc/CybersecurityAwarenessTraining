@@ -4,7 +4,7 @@
 
 <b>Mastercard Cybersecurity virtual experience program on Forage </b>
   - <b>My Role</b>
-    - You are an analyst in our Security Awareness Team.
+    - An analyst on the Security Awareness Team.
     - Our Chief Security Officer (CSO) relies on our team to help our staff learn how to identify and report security threats to Mastercard.
 
 - <b>Description</b>
