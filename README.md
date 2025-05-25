@@ -1,48 +1,54 @@
-<h1>Cybersecurity Awareness Training</h1>
+# Phishing Resilience: Awareness Training 🎯
 
-<h2>Scenario</h2>
+As part of the **Mastercard Cybersecurity Virtual Experience Program** on Forage, I served as an analyst on the Security Awareness Team tasked with improving organizational phishing resilience.
 
-<b>Mastercard Cybersecurity virtual experience program on Forage </b>
-  - <b>My Role</b>
-    - An analyst on the Security Awareness Team.
-    - Our Chief Security Officer (CSO) relies on our team to help our staff learn how to identify and report security threats to Mastercard.
+## 🧠 Scenario
 
-- <b>Description</b>
-  - After analyzing the results of a phishing campaign, I was asked to create a short presentation providing some awareness and training materials for the two teams that appear to be most susceptible in order to help improve the security awareness of the teams that performed poorly in the campaign.
-    
-    ![image](https://github.com/user-attachments/assets/b0470b66-9c7a-4041-8805-12de1911ab3a)
+**Your Role:** Analyst on the Security Awareness Team  
+**Company:** Mastercard  
+**Challenge:** Two departments showed low performance in a simulated phishing test. You must deliver tailored awareness training to mitigate future risks.
 
-- <b>Tasks</b>
-  - Interpret phishing simulation results – Interpret the performance of a phishing email simulation to deliver phishing prevention training to the affected teams.
-    - Identify which areas of the business need more awareness about phishing
-  - Create a short presentation to help teams improve security awareness 
-    -	Design and implement the appropriate training for those teams to lower our risk of an attack.
+## 📊 Key Responsibilities
 
-<h2>Tools Used</h2>
+- **Analyzed phishing campaign simulation data** to identify the most at-risk business units.
+- **Interpreted security behavior patterns** and determined where awareness was lacking.
+- **Developed targeted training materials** using Canva and PowerPoint focused on:
+  - Recognizing phishing indicators
+  - Safe handling of suspicious emails
+  - Reporting procedures
+- **Designed and implemented a training strategy** tailored to departments most susceptible to phishing threats.
 
-  - <b>Canva</b>
-  - <b>PowerPoint</b> 
+## 🛠️ Tools & Methodologies
 
-<h2>Results</h2>
+- Canva (visual design)
+- Microsoft PowerPoint (training content)
+- Behavioral data analysis
+- Security awareness best practices
+- Human risk reduction strategy
 
-<h3><a href="https://github.com/arielbethea/CybersecurityAwarenessTraining/blob/main/Ariel%20Bethea%20-%20Mastercard%20Phishing%20Awareness%20Presentation.pdf" align="left">Cybesecurity Awareness Training Simulation for Mastercard</a></h3>
-</p>
+## 📂 Deliverables
 
+- ✅ **Cybersecurity Awareness Training Deck (PDF)** – concise, engaging, and scenario-specific content for high-risk teams.
 
-<h2>Summary</h2>
+## 🧩 Learning Outcomes
 
-  - Completed a job simulation where I served as an analyst on Mastercard’s Security Awareness Team.
-  - Helped identify and report security threats such as phishing.
-  - Analyzed and identified which areas of the business needed more robust security training and implemented training courses and procedures for those teams.
+- Applied core GRC principles by addressing user awareness as a control weakness.
+- Gained practical experience with **security behavior analysis** and **training strategy development**.
+- Enhanced communication of technical concepts to non-technical stakeholders.
 
-</p>
+## 📎 Related Skills
 
+- Security Awareness & Training
+- Human Risk Management
+- Phishing Simulation Analysis
+- Security Communications
+- GRC Fundamentals
 
+---
 
+📁 **[View the training PDF](https://github.com/ariel-grc/CybersecurityAwarenessTraining/blob/main/Ariel%20Bethea%20-%20Phishing%20Awareness%20Presentation.pdf)**
 
-
-
-
+🔗 Learn more about the [Forage Mastercard Cybersecurity Program](https://www.theforage.com/virtual-internships/prototype/Mastercard-Cybersecurity-Virtual-Experience-Program).
 
 
 <!--
